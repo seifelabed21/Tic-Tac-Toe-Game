@@ -30,4 +30,4 @@ Players take turns to place **X** and **O** on a 3×3 grid, and the game detects
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/TicTacToeGame.git
+   git clone https://github.com/seifelabed21/TicTacToeGame.git

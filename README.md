@@ -16,7 +16,7 @@ Players take turns to place **X** and **O** on a 3×3 grid, and the game detects
 
 ## 📸 Screenshot
 ![Tic Tac Toe Game]
-<img width="572" height="356" alt="Capture" src="https://github.com/user-attachments/assets/b79c6c69-c75b-478e-a2f4-c902d6f4ac43" />
+<img width="645" height="377" alt="tic tac toe" src="https://github.com/user-attachments/assets/cc4a344c-645f-4489-939e-ec072be14f72" />
 
 ---
 
